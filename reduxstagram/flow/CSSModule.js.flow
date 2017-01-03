@@ -1,3 +1,4 @@
 // @flow
 
-declare export default const className: string;
+declare var className: string;
+export default className;
